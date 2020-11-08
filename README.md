@@ -2,7 +2,7 @@
 
 ### Overview
 
-An simple Nginx reverse proxy. The page displays two random values `X` and `Y`,
+A simple Nginx reverse proxy. The page displays two random values `X` and `Y`,
 followed by values of the operations done on `X` and `Y`.
 
 ### Set Up
